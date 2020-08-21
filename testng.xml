@@ -5,10 +5,12 @@
 	<test name="Test">
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<!-- <class name="com.testbanking.TestCases.TC_BankManagerLogin_001" /> -->
-			<class name="com.testbanking.TestCases.TC_Addcustomer_002" />
+		<!-- <class name="com.testbanking.TestCases.TC_BankManagerLogin_001" /> -->
+			<!-- <class name="com.testbanking.TestCases.TC_Addcustomer_002" /> -->
+			<!-- <class name="com.testbanking.TestCases.TC_CustomerLogin_003" /> -->
+			<class name="com.testbanking.TestCases.TC_yourname_004" />
 		</classes>
 	</test> <!-- Test -->
 </suite> 
-
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ 

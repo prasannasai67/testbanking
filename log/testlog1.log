@@ -10,3 +10,31 @@
 2020-08-18 16:45:26,475 [main] INFO ebanking - lastname entered
 2020-08-18 16:45:26,623 [main] INFO ebanking - pincode entered
 2020-08-18 16:45:26,749 [main] INFO ebanking - clicked onadd customer button
+2020-08-20 11:28:22,060 [main] INFO ebanking - firstname entered
+2020-08-20 11:28:22,191 [main] INFO ebanking - lastname entered
+2020-08-20 11:28:22,355 [main] INFO ebanking - pincode entered
+2020-08-20 11:28:22,610 [main] INFO ebanking - clicked onadd customer button
+2020-08-20 14:16:07,000 [main] INFO ebanking - firstname entered
+2020-08-20 14:16:07,197 [main] INFO ebanking - lastname entered
+2020-08-20 14:16:07,392 [main] INFO ebanking - pincode entered
+2020-08-20 14:16:07,508 [main] INFO ebanking - clicked onadd customer button
+2020-08-20 15:35:00,048 [main] INFO ebanking - login
+2020-08-20 15:35:00,586 [main] INFO ebanking - select name
+2020-08-20 15:36:22,556 [main] INFO ebanking - login
+2020-08-20 15:36:23,106 [main] INFO ebanking - select name
+2020-08-20 15:36:23,235 [main] INFO ebanking - login inside
+2020-08-20 15:40:35,988 [main] INFO ebanking - login
+2020-08-20 15:40:36,538 [main] INFO ebanking - select name
+2020-08-20 15:40:36,643 [main] INFO ebanking - login inside
+2020-08-20 15:41:45,748 [main] INFO ebanking - login
+2020-08-20 15:41:46,286 [main] INFO ebanking - select name
+2020-08-20 15:41:46,413 [main] INFO ebanking - login inside
+2020-08-20 15:42:38,245 [main] INFO ebanking - login
+2020-08-20 15:43:10,206 [main] INFO ebanking - login
+2020-08-20 15:44:41,738 [main] INFO ebanking - login
+2020-08-20 15:45:44,790 [main] INFO ebanking - login
+2020-08-20 15:45:51,052 [main] INFO ebanking - select name
+2020-08-20 15:45:51,183 [main] INFO ebanking - login inside
+2020-08-20 15:50:02,393 [main] INFO ebanking - login
+2020-08-20 15:50:08,662 [main] INFO ebanking - select name
+2020-08-20 15:50:08,754 [main] INFO ebanking - login inside
